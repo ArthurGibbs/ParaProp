@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="106mm"
+   height="23.64mm"
+   viewBox="0 0 106 23.64"
+   version="1.1"
+   id="svg2"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="ms313-il.svg">
+  <metadata
+     id="metadata52">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Airfoil plot (ms313-il) NASA/LANGLEY MS(1)-0313 AIRFOIL by AirfoilTools.com</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs50" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1189"
+     inkscape:window-height="685"
+     id="namedview48"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:zoom="1.1521838"
+     inkscape:cx="180.92081"
+     inkscape:cy="24.234874"
+     inkscape:window-x="323"
+     inkscape:window-y="64"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2">
+    <sodipodi:guide
+       orientation="1,0"
+       position="160.56466,50.33919"
+       id="guide3029" />
+  </sodipodi:namedview>
+  <title
+     id="title4">Airfoil plot (ms313-il) NASA/LANGLEY MS(1)-0313 AIRFOIL by AirfoilTools.com</title>
+  <path
+     style="fill:none;stroke:#000000;stroke-width:0.10000001;stroke-opacity:1"
+     d="m -23.053573,18.249318 c -9.449361,3.402047 -9.493405,10.743497 -0.245835,12.319807 9.24757,1.57631 51.650647,-1.37717 62.392315,-2.310081 10.741668,-0.932911 29.339861,-2.479398 29.918841,-2.40799 l 0.73214,-1.813325 C 48.588174,19.370679 37.304981,15.780822 20.565228,15.09986 5.6017404,14.681527 -13.604212,14.847271 -23.053573,18.249318 z"
+     id="path32"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="zzzcccz" />
+</svg>
